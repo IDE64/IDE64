@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IDE64
 - 👀 I’m interested in programing and webdesign 
 - 🌱 I’m currently learning RN
-- 💞️ I’m looking to collaborate on in the software developement of edeucational softwares
+- 💞️ I’m looking to collaborate on in the software developement of educational softwares
 - 📫 How to reach me ... through my email
 
 <!---
